@@ -50,4 +50,5 @@ while True:
                 print("SAQUE REALIZADO COM SUCESSO!")
     else:
         print("ESCOLHA UMA DAS OPÇÕES!")
+#Instruções: Ctrl + c (para travar o programa) ou criar uma condição para pará-lo.
 #CONTINUAR...
